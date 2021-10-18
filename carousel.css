@@ -108,7 +108,7 @@ body {
 .resto-headings h1::after {
   content: '';
   flex: 1;
-  border-bottom: 1px solid #000;
+  border-bottom: 1px solid #eee;
 }
 
 .resto-headings h1:not(:empty)::before {

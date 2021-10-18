@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 150px;
+        fill: #5a5a5a;
+        text-anchor: middle;
+        font-family: "Myriad Pro";
+      }
+    </style>
+  </defs>
+  <text id="ROI_30_" data-name="ROI &gt;30%" class="cls-1" x="235.222" y="208.475"><tspan x="235.222">ROI</tspan><tspan x="235.222" dy="180">&gt;30%</tspan></text>
+</svg>

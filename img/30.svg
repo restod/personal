@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 200px;
+        fill: #5a5a5a;
+        font-family: "Myriad Pro";
+      }
+    </style>
+  </defs>
+  <text id="_30_" data-name="&gt;30%" class="cls-1" x="5.222" y="313.475">&gt;30%</text>
+</svg>
