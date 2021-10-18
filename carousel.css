@@ -119,6 +119,9 @@ body {
   margin-left: .25em;
 }
 
+.resto-content-short{
+  margin-top: 10%;
+}
 footer .social{
   height: fit-content;
 }
