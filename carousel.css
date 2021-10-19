@@ -111,6 +111,26 @@ body {
   border-bottom: 1px solid #eee;
 }
 
+ul .nav-link {
+  /*margin-left: 32%;*/
+  font-weight: 500;
+  font-size: 55px;
+  testing
+  display: flex;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 5rem;
+}
+ul .nav-link::before,
+ul .nav-link::after{
+  content: '';
+  flex: 1;
+  border-bottom: 1px solid #eee;
+}
+
+
+
+
 .resto-headings h1:not(:empty)::before {
   margin-right: .25em;
 }
