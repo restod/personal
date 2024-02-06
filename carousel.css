@@ -4,7 +4,7 @@
 
 /* Disable Hamburger */
 .navbar-toggler-icon{
-  display: none;
+  /*display: none;*/
 }
 .navbar-dark .navbar-brand{
   font-size: xx-large;
@@ -142,7 +142,6 @@ footer .social{
   letter-spacing: -.05rem;
 }
 
-
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
@@ -168,4 +167,12 @@ footer .social{
     float: left;
     margin-top: 12rem;
   }
+}
+
+/*Leadership Philosophy */
+
+.lp_text_deco{
+  pointer-events: none;
+  text-decoration: underline;
+  color: rgb(23, 24, 19);
 }
